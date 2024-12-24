@@ -16,7 +16,7 @@
 - Epilogue
 
 ## Youtube video link
-[freecodecamp - Learn C Programming and OPP with Dr. Chuck {feat. classic book by Kernighan and Ritchie]([https://www.youtube.com/watch?v=nLRL_NcnK-4&t=1405s](https://youtu.be/PaPN51Mm5qQ?si=xooMUlUAiGkQSrbK))
+[freecodecamp - Learn C Programming and OPP with Dr. Chuck {feat. classic book by Kernighan and Ritchie](https://youtu.be/PaPN51Mm5qQ?si=xooMUlUAiGkQSrbK)
 
 [Course resources](https://www.cc4e.com/)
 
